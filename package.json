@@ -1,0 +1,26 @@
+{
+  "name": "l10handson",
+  "version": "1.0.0",
+  "description": "Personal Website",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malikflx/personalWebsite.git"
+  },
+  "author": "Malik Felix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malikflx/personalWebsite/issues"
+  },
+  "homepage": "https://github.com/malikflx/personalWebsite#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "http-server": "^0.11.1",
+    "livereload": "^0.8.2",
+    "react": "^16.10.2",
+    "webpack": "^4.41.2"
+  }
+}
